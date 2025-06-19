@@ -1,5 +1,5 @@
 
-# PDF Data Extraction Pipeline
+# Data Extraction Pipeline
 
 This Jupyter Notebook provides a structured approach to extract data from PDF documents using advanced preprocessing, layout analysis, and parsing techniques. It primarily leverages tools like `PyMuPDF`, `pdf2image`, and `pytesseract` to handle PDFs and extract structured data from scanned or embedded content.
 
