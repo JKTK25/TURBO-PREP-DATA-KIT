@@ -72,5 +72,5 @@ for img in images:
 This project is licensed under the MIT License.
 
 ## Author
-
-Created and maintained by [Your Name or Organization]
+James Kariuki (Jamexkarix583@gmai.com)
+Created and maintained by [Turbo organization]
